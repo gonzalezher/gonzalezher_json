@@ -1,8 +1,8 @@
 {
-    "Name": "Aatrox",
-    "HP": "3420",
-    "Attack": "310",
-    "Defense": "120",
-    "Speed": "405",
-    "Stamina": "700"
+    "Name": "Teemo",
+    "HP": "2800",
+    "Attack": "200",
+    "Defense": "150",
+    "Speed": "600",
+    "Stamina": "1000"
 }
